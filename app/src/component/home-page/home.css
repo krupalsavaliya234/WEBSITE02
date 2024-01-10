@@ -1,0 +1,8 @@
+.c1
+{
+    margin: 20px 10px;
+    display: grid;
+    width: 90%;
+    grid-template-columns: 1fr 1fr 1fr   ;
+    row-gap: 80px;
+}
